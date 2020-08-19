@@ -100,8 +100,7 @@ print("错误率是："+str(float(x)/float(num)))
 #小作业：用贝叶斯算法实现课程销量的预测
 
 
-
-
+12345435bceshi
 
 
 
