@@ -102,9 +102,9 @@ print("错误率是："+str(float(x)/float(num)))
 
 12345435bceshi
 
+12345435bceshi
 
-
-
+12345435bceshi
 
 
 
